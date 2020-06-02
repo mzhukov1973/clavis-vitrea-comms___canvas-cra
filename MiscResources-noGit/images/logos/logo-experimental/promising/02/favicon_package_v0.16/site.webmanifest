@@ -1,0 +1,21 @@
+{
+    "name": "ClaVit:Comms\u1d66",
+    "short_name": "ClaVit:Comms\u1d66",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png?v=1",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png?v=1",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#87c8f4",
+    "background_color": "#87c8f4",
+    "start_url": "https://clavis-vitrea-comms.mzhukov.now.sh",
+    "display": "standalone",
+    "orientation": "portrait"
+}

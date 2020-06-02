@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     width="85.790mm"
+     height="54.313mm"
+     viewBox="0 0 85.790 54.313"
+     version="1.1"
+     id="svg8">
+  <defs id="defs2">
+    <marker inkscape:stockid="Arrow1Lend" orient="auto" refY="0" refX="0" id="marker10227" style="overflow:visible" inkscape:isstock="true">
+      <path id="path10225" d="m 0,0 5,-5 -17.5,5 17.5,5 z" style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.49803922" transform="matrix(-0.8,0,0,-0.8,-10,0)" inkscape:connector-curvature="0" />
+    </marker>
+    <marker inkscape:stockid="Arrow1Lstart" orient="auto" refY="0" refX="0" id="marker10085" style="overflow:visible" inkscape:isstock="true">
+      <path id="path10083" d="m 0,0 5,-5 -17.5,5 17.5,5 z" style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.49803922" transform="matrix(0.8,0,0,0.8,10,0)" inkscape:connector-curvature="0" />
+    </marker>
+    <marker inkscape:isstock="true" style="overflow:visible" id="marker9669" refX="0" refY="0" orient="auto" inkscape:stockid="Arrow1Lend">
+      <path inkscape:connector-curvature="0" transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.49803922" d="m 0,0 5,-5 -17.5,5 17.5,5 z" id="path9667" />
+    </marker>
+    <marker inkscape:isstock="true" style="overflow:visible" id="marker9539" refX="0" refY="0" orient="auto" inkscape:stockid="Arrow1Lstart">
+      <path inkscape:connector-curvature="0" transform="matrix(0.8,0,0,0.8,10,0)" style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.49803922" d="m 0,0 5,-5 -17.5,5 17.5,5 z" id="path9537" />
+    </marker>
+    <marker inkscape:stockid="Arrow1Lend" orient="auto" refY="0" refX="0" id="marker7831" style="overflow:visible" inkscape:isstock="true">
+      <path id="path7829" d="m 0,0 5,-5 -17.5,5 17.5,5 z" style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.49803922" transform="matrix(-0.8,0,0,-0.8,-10,0)" inkscape:connector-curvature="0" />
+    </marker>
+    <marker inkscape:stockid="Arrow1Lstart" orient="auto" refY="0" refX="0" id="marker7713" style="overflow:visible" inkscape:isstock="true">
+      <path id="path7711" d="m 0,0 5,-5 -17.5,5 17.5,5 z" style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.49803922" transform="matrix(0.8,0,0,0.8,10,0)" inkscape:connector-curvature="0" />
+    </marker>
+    <marker inkscape:isstock="true" style="overflow:visible" id="marker6941" refX="0" refY="0" orient="auto" inkscape:stockid="Arrow1Lend">
+      <path inkscape:connector-curvature="0" transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.49803922" d="m 0,0 5,-5 -17.5,5 17.5,5 z" id="path6939" />
+    </marker>
+    <marker inkscape:isstock="true" style="overflow:visible" id="marker6835" refX="0" refY="0" orient="auto" inkscape:stockid="Arrow1Lstart">
+      <path inkscape:connector-curvature="0" transform="matrix(0.8,0,0,0.8,10,0)" style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.49803922" d="m 0,0 5,-5 -17.5,5 17.5,5 z" id="path6833" />
+    </marker>
+    <marker inkscape:stockid="Arrow1Mstart" orient="auto" refY="0" refX="0" id="Arrow1Mstart" style="overflow:visible" inkscape:isstock="true">
+      <path id="path2497" d="m 0,0 5,-5 -17.5,5 17.5,5 z" style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.49803922" transform="matrix(0.4,0,0,0.4,4,0)" inkscape:connector-curvature="0" />
+    </marker>
+    <marker inkscape:stockid="Arrow1Lstart" orient="auto" refY="0" refX="0" id="marker3146" style="overflow:visible" inkscape:isstock="true">
+      <path id="path3144" d="m 0,0 5,-5 -17.5,5 17.5,5 z" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1" transform="matrix(0.8,0,0,0.8,10,0)" inkscape:connector-curvature="0" />
+    </marker>
+    <marker inkscape:stockid="Arrow1Lend" orient="auto" refY="0" refX="0" id="marker3114" style="overflow:visible" inkscape:isstock="true">
+      <path id="path3112" d="m 0,0 5,-5 -17.5,5 17.5,5 z" style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:1" transform="matrix(-0.8,0,0,-0.8,-10,0)" inkscape:connector-curvature="0" />
+    </marker>
+    <marker inkscape:isstock="true" style="overflow:visible" id="marker2914" refX="0" refY="0" orient="auto" inkscape:stockid="Arrow1Lend" inkscape:collect="always">
+      <path transform="matrix(-0.8,0,0,-0.8,-10,0)" style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.49803922" d="m 0,0 5,-5 -17.5,5 17.5,5 z" id="path2912" inkscape:connector-curvature="0" />
+    </marker>
+    <marker inkscape:isstock="true" style="overflow:visible" id="marker2886" refX="0" refY="0" orient="auto" inkscape:stockid="Arrow1Lstart" inkscape:collect="always">
+      <path transform="matrix(0.8,0,0,0.8,10,0)" style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.49803922" d="m 0,0 5,-5 -17.5,5 17.5,5 z" id="path2884" inkscape:connector-curvature="0" />
+    </marker>
+    <marker inkscape:stockid="Arrow1Lend" orient="auto" refY="0" refX="0" id="Arrow1Lend" style="overflow:visible" inkscape:isstock="true" inkscape:collect="always">
+      <path id="path2494" d="m 0,0 5,-5 -17.5,5 17.5,5 z" style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.49803922" transform="matrix(-0.8,0,0,-0.8,-10,0)" inkscape:connector-curvature="0" />
+    </marker>
+    <marker inkscape:stockid="Arrow1Lstart" orient="auto" refY="0" refX="0" id="Arrow1Lstart" style="overflow:visible" inkscape:isstock="true" inkscape:collect="always">
+      <path id="path2491" d="m 0,0 5,-5 -17.5,5 17.5,5 z" style="fill:#000000;fill-opacity:0.49803922;fill-rule:evenodd;stroke:#000000;stroke-width:1.00000003pt;stroke-opacity:0.49803922" transform="matrix(0.8,0,0,0.8,10,0)" inkscape:connector-curvature="0" />
+    </marker>
+    <clipPath id="clipPath1000" clipPathUnits="userSpaceOnUse">
+      <rect inkscape:label="clipping rect" id="rect1002" style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:0.73367pt" rx="6.6925001" ry="21.066999" height="56.316002" width="51.5" y="62.380001" x="35.420998" />
+    </clipPath>
+    <clipPath id="clipPath1004" clipPathUnits="userSpaceOnUse">
+      <rect inkscape:label="clipping rect" id="rect1006" style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:0.73367pt" rx="6.6925001" ry="21.066999" height="56.316002" width="51.5" y="62.380001" x="35.420998" />
+    </clipPath>
+    <clipPath id="clipPath1008" clipPathUnits="userSpaceOnUse">
+      <rect inkscape:label="clipping rect" id="rect1010" style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:0.73367pt" rx="6.6925001" ry="21.066999" height="56.316002" width="51.5" y="62.380001" x="35.420998" />
+    </clipPath>
+    <clipPath id="clipPath1012" clipPathUnits="userSpaceOnUse">
+      <rect inkscape:label="clipping rect" id="rect1014" style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:0.73367pt" rx="6.6925001" ry="21.066999" height="56.316002" width="51.5" y="62.380001" x="35.420998" />
+    </clipPath>
+    <clipPath id="clipPath1016" clipPathUnits="userSpaceOnUse">
+      <rect inkscape:label="clipping rect" id="rect1018" style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:0.73367pt" rx="6.6925001" ry="21.066999" height="56.316002" width="51.5" y="62.380001" x="35.420998" />
+    </clipPath>
+    <clipPath id="clipPath1020" clipPathUnits="userSpaceOnUse">
+      <rect inkscape:label="clipping rect" id="rect1022" style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:0.73367pt" rx="6.6925001" ry="21.066999" height="56.316002" width="51.5" y="62.380001" x="35.420998" />
+    </clipPath>
+    <clipPath id="clipPath1024" clipPathUnits="userSpaceOnUse">
+      <rect inkscape:label="clipping rect" id="rect1026" style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:0.73367pt" rx="6.6925001" ry="21.066999" height="56.316002" width="51.5" y="62.380001" x="35.420998" />
+    </clipPath>
+    <clipPath id="clipPath1028" clipPathUnits="userSpaceOnUse">
+      <rect inkscape:label="clipping rect" id="rect1030" style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:0.73367pt" rx="6.6925001" ry="21.066999" height="56.316002" width="51.5" y="62.380001" x="35.420998" />
+    </clipPath>
+    <clipPath id="clipPath1038" clipPathUnits="userSpaceOnUse">
+      <rect x="35.420998" y="62.380001" width="51.5" height="56.316002" ry="21.066999" rx="6.6925001" style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:0.73367pt" id="rect1040" inkscape:label="clipping rect" />
+    </clipPath>
+    <clipPath id="clipPath1042" clipPathUnits="userSpaceOnUse">
+      <rect x="35.420998" y="62.380001" width="51.5" height="56.316002" ry="21.066999" rx="6.6925001" style="display:inline;fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:none;stroke-width:0.73367pt" id="rect1044" inkscape:label="clipping rect" />
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath4983">
+      <rect inkscape:label="Clipping rectangle" y="-282.80002" x="0" height="75.980003" width="107.6" id="rect4985" style="fill:none;fill-rule:evenodd;stroke-width:0.0342801" />
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath4987">
+      <rect inkscape:label="Clipping rectangle" y="-10.892208" x="-2.0268607" height="31.859102" width="40.786194" id="rect4989" style="fill:none;fill-rule:evenodd;stroke-width:0.01366657" />
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1971">
+      <rect style="fill:none;fill-rule:evenodd;stroke-width:0.0342801" id="rect1973" width="107.6" height="75.980003" x="0" y="-282.80002" inkscape:label="Clipping rectangle" />
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1975">
+      <rect style="fill:none;fill-rule:evenodd;stroke-width:0.0342801" id="rect1977" width="107.6" height="75.980003" x="0" y="-214.41801" inkscape:label="Clipping rectangle" />
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1979">
+      <rect style="fill:none;fill-rule:evenodd;stroke-width:0.0342801" id="rect1981" width="107.6" height="75.980003" x="0" y="-214.41801" inkscape:label="Clipping rectangle" />
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1983">
+      <rect style="fill:none;fill-rule:evenodd;stroke-width:0.0342801" id="rect1985" width="107.6" height="75.980003" x="0" y="-214.41801" inkscape:label="Clipping rectangle" />
+    </clipPath>
+    <clipPath clipPathUnits="userSpaceOnUse" id="clipPath1987">
+      <rect style="fill:none;fill-rule:evenodd;stroke-width:0.0342801" id="rect1989" width="107.6" height="75.980003" x="0" y="-214.41801" inkscape:label="Clipping rectangle" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+   id="base"
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1.0"
+   inkscape:pageopacity="0.0"
+   inkscape:pageshadow="2"
+   inkscape:zoom="1.8343789"
+   inkscape:cx="207.42716"
+   inkscape:cy="143.58426"
+   inkscape:document-units="mm"
+   inkscape:current-layer="layer1"
+   showgrid="false"
+   inkscape:window-width="1280"
+   inkscape:window-height="789"
+   inkscape:window-x="0"
+   inkscape:window-y="0"
+   inkscape:window-maximized="1"
+   units="mm"
+   inkscape:pagecheckerboard="true"/>
+  <g inkscape:label="Layer 1" id="layer1" transform="translate(0,192.75101)" inkscape:groupmode="layer">
+    <g id="g1856" inkscape:label="Card" clip-path="url(#clipPath1987)" transform="translate(-10.905176,10.771913)">
+      <path id="path845" style="fill:#000000;fill-opacity:0.12156863;stroke:#000000;stroke-width:0.20000607;stroke-linejoin:round;paint-order:fill markers stroke" d="m 14.184805,-149.43308 c -0.843287,-1e-5 -1.652034,-0.3351 -2.248324,-0.93159 -0.596297,-0.59647 -0.931297,-1.40546 -0.931302,-2.249 v -47.62866 c -7e-6,-1.75659 1.423564,-3.18059 3.179626,-3.18059 l 79.230404,1e-5 c 1.756051,0 3.179611,1.42399 3.179611,3.18058 v 47.62866 c 0,1.75658 -1.42356,3.18058 -3.179611,3.18058 z" inkscape:connector-curvature="0" sodipodi:nodetypes="ccccccsccc" inkscape:label="Card  shape" />
+      <g transform="translate(0,68.382008)" id="g3553" inkscape:label="Card sizes" style="fill:none;fill-opacity:0.49803922;stroke:#000000;stroke-opacity:0.49803922">
+        <g id="g2872" inkscape:label="Card horisontal size" transform="matrix(0.99127978,0,0,1.0007269,0.43097617,2.279789)">
+          <path inkscape:label="Card horisontal size line" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path2489" d="m 11.05,-223.71876 h 85.545" style="stroke-width:0.2;stroke-linejoin:round;marker-start:url(#Arrow1Lstart);marker-end:url(#Arrow1Lend);paint-order:fill markers stroke" />
+          <text inkscape:label="Card horisontal size text" id="text2807" y="-221.25908" x="39.254883" style="font-size:2.70668721px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.02645833" xml:space="preserve"><tspan style="font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display'" y="-221.25908" x="39.254883" id="tspan2805" sodipodi:role="line">85.6㎜</tspan></text>
+        </g>
+        <g inkscape:label="Card vertical size" id="g2882" transform="rotate(-90,61.23085,-232.31684)">
+          <path style="stroke-width:0.15844914;stroke-linejoin:round;marker-start:url(#marker2886);marker-end:url(#marker2914);paint-order:fill markers stroke" d="m 46.813703,-223.71876 h 53.692597" id="path2876" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" inkscape:label="Card vertical size line" />
+          <text xml:space="preserve" style="font-size:2.70668721px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.02645833" x="69.026978" y="-224.04535" id="text2880" inkscape:label="Card vertical size text"><tspan sodipodi:role="line" id="tspan2878" x="69.026978" y="-224.04535" style="font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display'">53.98㎜</tspan></text>
+        </g>
+        <g id="g3369" inkscape:label="Card corner radius" transform="translate(-0.07937499,0.07937499)">
+          <path inkscape:label="Card corner radius line" inkscape:connector-curvature="0" id="path3032" d="m 91.83565,-267.11935 -6.096536,3.19696 h -13.123573" style="stroke-width:0.19999997;stroke-linejoin:round;marker-start:url(#Arrow1Mstart);paint-order:fill markers stroke" sodipodi:nodetypes="ccc" />
+          <path style="stroke-width:0.2;stroke-linejoin:round;stroke-dasharray:0.60000001, 0.60000001000000003;paint-order:fill markers stroke" id="path1391" sodipodi:type="arc" sodipodi:cx="96.699997" sodipodi:cy="-271.89999" sodipodi:rx="6.3600001" sodipodi:ry="6.3600001" sodipodi:start="1.5707963" sodipodi:end="3.1415927" d="m 96.699997,-265.53999 a 6.3600001,6.3600001 0 0 1 -4.497199,-1.8628 6.3600001,6.3600001 0 0 1 -1.862801,-4.4972" sodipodi:open="true" inkscape:label="Card corner radius arc" />
+          <text inkscape:label="Card corner radius text" id="text3332" y="-264.46442" x="72.777664" style="font-size:2.70668721px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.02645833" xml:space="preserve"><tspan style="font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display'" y="-264.46442" x="72.777664" id="tspan3330" sodipodi:role="line"><tspan style="font-size:3.17499995px;-inkscape-font-specification:'Noto Sans Display'" id="tspan3777">R⌀ </tspan>3.18㎜</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="g1906" inkscape:label="Crypto window" clip-path="url(#clipPath1979)" transform="translate(-10.905176,10.771913)">
+      <rect style="fill:#000000;fill-opacity:0.12156863;fill-rule:evenodd;stroke:#000000;stroke-width:0.20004393" id="rect5062" width="44.1796" height="44.199802" x="15.900023" y="-198.53783" inkscape:label="Crypto window shape" />
+      <g transform="translate(0,68.382008)" id="g6831" inkscape:label="Crypto window sizes" style="fill:none;fill-opacity:0.49803922;stroke:#000000;stroke-opacity:0.49803922">
+        <g id="g6769" inkscape:label="Crypto window horisontal size" transform="translate(5.3603173,-46.313347)">
+          <path inkscape:label="Chip horisontal size right guideline" style="stroke-width:0.04118858;stroke-linejoin:round;paint-order:fill markers stroke" d="m 54.804264,-224.39045 v 3.70871" id="path6761" inkscape:connector-curvature="0" />
+          <path inkscape:label="Chip horisontal size left guideline" inkscape:connector-curvature="0" id="path6763" d="m 10.455101,-224.39045 v 3.70871" style="stroke-width:0.04118858;stroke-linejoin:round;paint-order:fill markers stroke" />
+          <path inkscape:label="Chip horisontal size line" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path6759" d="m 10.752483,-221.64472 h 43.754399" style="stroke-width:0.14314884;stroke-linejoin:round;marker-start:url(#marker7713);marker-end:url(#marker7831);paint-order:fill markers stroke" />
+          <text inkscape:label="Chip horisontal size text" id="text6767" y="-222.41083" x="29.933758" style="font-size:2.70668721px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.02645833" xml:space="preserve"><tspan style="font-size:1.85208333px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display'" y="-222.41083" x="29.933758" id="tspan6765" sodipodi:role="line">44.39㎜</tspan></text>
+        </g>
+        <g transform="rotate(-90,20.344679,-274.93077)" inkscape:label="Crypto window vertical size" id="g6757">
+          <path style="stroke-width:0.05337977;stroke-linejoin:round;paint-order:fill markers stroke" d="m -31.934472,-235.19545 v 6.22907" id="path6749" inkscape:connector-curvature="0" inkscape:label="Chip vertical size bottom guideline" />
+          <path inkscape:connector-curvature="0" id="path6751" d="m 12.382306,-235.19545 v 6.22907" style="stroke-width:0.05337977;stroke-linejoin:round;paint-order:fill markers stroke" inkscape:label="Chip vertical size top guideline" />
+          <path style="stroke-width:0.14312206;stroke-linejoin:round;marker-start:url(#marker6835);marker-end:url(#marker6941);paint-order:fill markers stroke" d="m -31.636951,-230.59793 h 43.738048" id="path6747" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" inkscape:label="Chip vertical size line" />
+          <text xml:space="preserve" style="font-size:2.70668721px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.02645833" x="-12.463851" y="-231.36389" id="text6755" inkscape:label="Chip vertical size text"><tspan sodipodi:role="line" x="-12.463851" y="-231.36389" style="font-size:1.85208333px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display'" id="tspan13522">44.39㎜</tspan></text>
+        </g>
+        <g id="g6787" inkscape:label="Crypto window horisontal position" transform="translate(-3.583884,-26.458321)">
+          <path inkscape:label="Chip horisontal position line" sodipodi:nodetypes="cc" inkscape:connector-curvature="0" id="path6781" d="m 14.723365,-236.20535 h 4.64318" style="stroke-width:0.02824051;stroke-linejoin:round;marker-start:url(#marker9539);marker-end:url(#marker9669);paint-order:fill markers stroke" />
+          <text inkscape:label="Chip horisontal position text" id="text6785" y="-236.38792" x="14.867715" style="font-size:2.70668721px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.02645833" xml:space="preserve"><tspan style="font-size:1.85208333px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display'" y="-236.38792" x="14.867715" sodipodi:role="line" id="tspan10043">5.0㎜</tspan></text>
+        </g>
+        <g id="g6779" inkscape:label="Crypto window vertical position" transform="translate(0,1.0125e-5)">
+          <path inkscape:connector-curvature="0" id="path6771" d="m 14.033947,-266.9571 h 11.838645" style="stroke-width:0.07125552;stroke-linejoin:round;paint-order:fill markers stroke" inkscape:label="Chip vertical position guideline" />
+          <path style="stroke-width:0.03593017;stroke-linejoin:round;marker-start:url(#marker10085);marker-end:url(#marker10227);paint-order:fill markers stroke" d="m 14.699323,-266.99931 v -4.66833" id="path6773" inkscape:connector-curvature="0" sodipodi:nodetypes="cc" inkscape:label="Chip vertical position line" />
+          <text xml:space="preserve" style="font-size:2.70668721px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.02645833" x="267.15625" y="14.477702" id="text6777" inkscape:label="Chip vertical position text" transform="rotate(-90)"><tspan sodipodi:role="line" id="tspan6775" x="267.15625" y="14.477702" style="font-size:1.85208333px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display'">5.0㎜</tspan></text>
+        </g>
+      </g>
+    </g>
+    <g id="g1968" inkscape:label="3 Markers" clip-path="url(#clipPath1975)" transform="translate(-10.905176,10.771913)">
+      <g inkscape:label="3 Markers - shapes" id="g1776">
+        <g id="g13408" inkscape:label="Marker 3 (three quarters bottom)">
+          <circle style="fill:#000000;fill-opacity:0.49803922;stroke-width:0.2;stroke-linejoin:round;paint-order:fill markers stroke" id="circle13379" cx="75.449997" cy="-151.03801" r="1.5" inkscape:label="Marker 3 (three quarters bottom) shape" />
+          <text id="text13403" y="-150.09344" x="74.742233" style="font-size:27.06687546px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458332" xml:space="preserve" inkscape:label="Marker 3 (three quarters bottom) text"><tspan style="font-weight:600;font-size:2.64583325px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display Semi-Bold'" y="-150.09344" x="74.742233" id="tspan13401" sodipodi:role="line">3</tspan></text>
+        </g>
+        <g id="g13399" inkscape:label="Marker 2 (middle bottom)">
+          <circle inkscape:label="Marker 2 (middle bottom) shape" r="1.5" cy="-151.03801" cx="53.799999" id="path13375" style="fill:#000000;fill-opacity:0.49803922;stroke-width:0.2;stroke-linejoin:round;paint-order:fill markers stroke" />
+          <text id="text13392" y="-150.08022" x="53.085625" style="font-size:27.06687546px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458332" xml:space="preserve" inkscape:label="Marker 2 (middle bottom) text"><tspan style="font-weight:600;font-size:2.64583325px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display Semi-Bold'" y="-150.08022" x="53.085625" id="tspan13390" sodipodi:role="line">2</tspan></text>
+        </g>
+        <g id="g13388" inkscape:label="Marker 1 (left middle)">
+          <circle style="fill:#000000;fill-opacity:0.49803922;stroke-width:0.2;stroke-linejoin:round;paint-order:fill markers stroke" id="circle13377" cx="12.6" cy="-176.42799" r="1.5" inkscape:label="Marker 1 (left middle) shape" />
+          <text id="text13383" y="-175.48343" x="12.015271" style="font-size:27.06687546px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458332" xml:space="preserve" inkscape:label="Marker 1 (left middle) text"><tspan style="font-weight:600;font-size:2.64583325px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display Semi-Bold'" y="-175.48343" x="12.015271" id="tspan13381" sodipodi:role="line">1</tspan></text>
+        </g>
+      </g>
+      <g transform="translate(-0.79374997,4.4543867)" inkscape:label="3 Markers - description" id="g13453">
+        <rect inkscape:label="Description text background rectangle" ry="1.7083243" rx="2.0012255" y="-194.54898" x="71.753143" height="27.333189" width="24.657986" id="rect13465" style="fill:#000000;fill-opacity:0.12156863;fill-rule:evenodd;stroke:#000000;stroke-width:0.18489842" />
+        <text inkscape:label="Description text line 9" xml:space="preserve" style="font-size:27.06687546px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458332" x="72.121086" y="-229.26028" id="text13430"><tspan sodipodi:role="line" id="tspan13428" x="72.121086" y="-204.63281" /><tspan sodipodi:role="line" x="72.121086" y="-170.79921" style="font-size:2.64583325px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display'" id="tspan13432" dy="0 0 0 -1"><tspan dy="0.5" style="font-size:3.70416665px" id="tspan13436">  ⁃</tspan><tspan dy="-0.5" id="tspan13459" style="font-size:1.85208333px"> R⌀ 1.5㎜</tspan></tspan></text>
+        <text inkscape:label="Description text line 8" xml:space="preserve" style="font-size:27.06687546px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458332" x="72.121086" y="-173.30791" id="text13422"><tspan sodipodi:role="line" x="72.121086" y="-173.30791" style="font-size:2.64583325px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display'" id="tspan13424" dy="0 0 0 -1"><tspan dy="0.5" style="font-size:3.70416665px" id="tspan13438">  ⁃</tspan><tspan dy="-0.5" id="tspan13457" style="font-size:1.85208333px"> [three quarters, bottom]</tspan></tspan></text>
+        <text inkscape:label="Description text line 7" xml:space="preserve" style="font-size:27.06687546px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458332" x="72.121086" y="-175.60924" id="text13412"><tspan sodipodi:role="line" id="tspan13410" x="72.121086" y="-175.60924" style="font-size:2.64583325px;line-height:0px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal'" dy="0 -1"><tspan style="font-size:3.70416665px" id="tspan13440" dy="1">•</tspan><tspan id="tspan13455" style="font-size:2.11666656px"> </tspan><tspan style="font-weight:600;font-size:1.85208333px;-inkscape-font-specification:'Noto Sans Display Semi-Bold'" id="tspan13463">Marker 3</tspan></tspan><tspan sodipodi:role="line" x="72.121086" y="-141.77565" style="font-size:2.64583325px;line-height:0px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal'" id="tspan13416" /></text>
+        <text transform="scale(0.9999885,1.0000115)" id="text1703" y="-236.5869" x="72.121918" style="font-size:27.06718826px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458639" xml:space="preserve" inkscape:label="Description text line 6"><tspan y="-211.95914" x="72.121918" id="tspan1695" sodipodi:role="line" /><tspan dy="0 0 0 -1.0000116" id="tspan1701" style="font-size:2.64586377px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display'" y="-178.12515" x="72.121918" sodipodi:role="line"><tspan dy="0 0 0 -0.5" style="font-size:1.85210466px" id="tspan1699"><tspan dy="0.5" id="tspan1762" style="font-size:3.70416665px">  ⁃</tspan> R⌀ 1.5㎜</tspan></tspan></text>
+        <text transform="scale(0.9999885,1.0000115)" id="text1712" y="-180.63387" x="72.121918" style="font-size:27.06718826px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458639" xml:space="preserve" inkscape:label="Description text line 5"><tspan dy="0 0 0 -1.0000116" id="tspan1710" style="font-size:2.64586377px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display'" y="-180.63387" x="72.121918" sodipodi:role="line"><tspan dy="0.5" id="tspan1705" style="font-size:3.70420933px">  ⁃</tspan><tspan dy="-0.5" style="font-size:1.85210466px" id="tspan1708"> [middle, bottom]</tspan></tspan></text>
+        <text transform="scale(0.9999885,1.0000115)" id="text1724" y="-182.93521" x="72.121918" style="font-size:27.06718826px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458639" xml:space="preserve" inkscape:label="Description text line 4"><tspan dy="0 -1.0000116" style="font-size:2.64586377px;line-height:0px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal'" y="-182.93521" x="72.121918" id="tspan1720" sodipodi:role="line"><tspan dy="1.0000116" id="tspan1714" style="font-size:3.70420933px">•</tspan><tspan style="font-size:2.11669111px" id="tspan1716"> </tspan><tspan id="tspan1718" style="font-weight:600;font-size:1.85210466px;-inkscape-font-specification:'Noto Sans Display Semi-Bold'">Marker 2</tspan></tspan><tspan id="tspan1722" style="font-size:2.64586377px;line-height:0px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal'" y="-149.10123" x="72.121918" sodipodi:role="line" /></text>
+        <text id="text1734" inkscape:label="Description text line 3" xml:space="preserve" style="font-size:27.06687546px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458332" x="72.121086" y="-243.9164"><tspan id="tspan1726" sodipodi:role="line" x="72.121086" y="-219.28893" /><tspan id="tspan1732" sodipodi:role="line" x="72.121086" y="-185.45532" style="font-size:2.64583325px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display'" dy="0 0 0 -1"><tspan dy="0 0 0 -0.5" id="tspan1730" style="font-size:1.85208333px"><tspan dy="0.5" id="tspan1760" style="font-size:3.70416665px">  ⁃</tspan> R⌀ 1.5㎜</tspan></tspan></text>
+        <text id="text1742" inkscape:label="Description text line 2" xml:space="preserve" style="font-size:27.06687546px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458332" x="72.121086" y="-187.75665"><tspan id="tspan1740" sodipodi:role="line" x="72.121086" y="-187.75665" style="font-size:2.64583325px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display'" dy="0 0 0 -1"><tspan dy="0 0 0.5" id="tspan1736" style="font-size:3.70416665px">  ⁃</tspan><tspan dy="-0.5" id="tspan1738" style="font-size:1.85208333px"> [left, middle]</tspan></tspan></text>
+        <text id="text1754" inkscape:label="Description text line 1" xml:space="preserve" style="font-size:27.06687546px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:0.26458332" x="72.121086" y="-190.05798"><tspan id="tspan1750" sodipodi:role="line" x="72.121086" y="-190.05798" style="font-size:2.64583325px;line-height:0px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal'" dy="0 -1"><tspan id="tspan1744" style="font-size:3.70416665px" dy="1">•</tspan><tspan id="tspan1746" style="font-size:2.11666656px"> </tspan><tspan id="tspan1748" style="font-weight:600;font-size:1.85208333px;-inkscape-font-specification:'Noto Sans Display Semi-Bold'">Marker 1</tspan></tspan><tspan id="tspan1752" sodipodi:role="line" x="72.121086" y="-156.2244" style="font-size:2.64583325px;line-height:0px;font-family:'Noto Sans Display';-inkscape-font-specification:'Noto Sans Display, Normal'" /></text>
+      </g>
+    </g>
+  </g>
+</svg>

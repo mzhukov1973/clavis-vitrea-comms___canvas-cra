@@ -1,0 +1,18 @@
+{
+ "version": 2,
+ "name": "clavis-vitrea-comms",
+ "project": "clavis-vitrea-comms",
+ "alias": [
+   "clavis-vitrea-comms.mzhukov.now.sh"
+ ],
+ "scope": "mzhukov",
+ "env": {
+ },
+ "public":  false,
+ "github": {
+   "enabled": false,
+   "autoAlias": true,
+   "silent": false,
+   "autoJobCancelation": true
+ }
+}

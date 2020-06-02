@@ -1,0 +1,83 @@
+{
+  "name": "clavis-vitrea-comms",
+  "short_name": "ClaVit:Commsᵦ",
+  "description": "Clavis Vitrea Communications App - an unusually secure comms app (chat functionality as seen in typical instant messaging apps and secure peer-to-peer images, documents and generic files exchange. Voice communication is to be introduced later.",
+  "version": "0.1.2",
+  "private": true,
+  "license": "Apache-2.0",
+  "author": {
+    "name": "Maxim Zhukov",
+    "email": "mzhukov31415dev@gmail.com",
+    "url": "https://github.com/mzhukov1973"
+  },
+  "homepage": "https://clavis-vitrea-comms.mzhukov.now.sh",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mzhukov1973/clavis-vitrea-comms___canvas-cra.git"
+  },
+  "bugs": {
+    "email": "mzhukov31415dev@gmail.com",
+    "url": "https://github.com/mzhukov1973/clavis-vitrea-comms___canvas-cra/issues"
+  },
+  "keywords": [
+    "communications",
+    "secure",
+    "encrypted",
+    "messaging",
+    "javascript",
+    "jsx",
+    "next",
+    "react"
+  ],
+  "engines": {
+    "node": "14.x"
+  },
+  "dependencies": {
+    "antd": "^3.26.0",
+    "localforage": "latest",
+    "prop-types": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "react-redux": "latest",
+    "react-scripts": "latest",
+    "redux": "latest",
+    "redux-persist": "latest",
+    "styled-jsx": "latest"
+  },
+  "bundleDependencies": [
+    "react",
+    "react-dom",
+    "react-scripts",
+    "react-redux",
+    "redux",
+    "prop-types",
+    "redux-persist",
+    "styled-jsx",
+    "localforage",
+    "antd"
+  ],
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "redux-devtools-extension": "latest"
+  }
+}

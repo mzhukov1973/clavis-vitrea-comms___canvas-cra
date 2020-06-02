@@ -1,0 +1,66 @@
+1024 +
+ 512 +
+ 384 +
+ 256 +
+ 194 +
+ 192 +
+ 180 +
+ 144 +
+ 128 +
+  96 +
+  72 +
+  64 +
+  48 +
+  36 -
+  32 +
+  24 +
+  16 +
+
+======================================================
+clavis-vitrea-comms_1024x1024.png
+clavis-vitrea-comms_1024x1024.svg
+
+clavis-vitrea-comms_512x512.png
+clavis-vitrea-comms_512x512.svg
+
+clavis-vitrea-comms_384x384.png
+clavis-vitrea-comms_384x384.svg
+
+clavis-vitrea-comms_256x256.png
+clavis-vitrea-comms_256x256.svg
+
+clavis-vitrea-comms_194x194.png
+clavis-vitrea-comms_194x194.svg
+
+clavis-vitrea-comms_192x192.png
+clavis-vitrea-comms_192x192.svg
+
+clavis-vitrea-comms_180x180.png
+clavis-vitrea-comms_180x180.svg
+
+clavis-vitrea-comms_144x144.png
+clavis-vitrea-comms_144x144.svg
+
+clavis-vitrea-comms_128x128.png
+clavis-vitrea-comms_128x128.svg
+
+clavis-vitrea-comms_96x96.png
+clavis-vitrea-comms_96x96.svg
+
+clavis-vitrea-comms_72x72.png
+clavis-vitrea-comms_72x72.svg
+
+clavis-vitrea-comms_64x64.png
+clavis-vitrea-comms_64x64.svg
+
+clavis-vitrea-comms_48x48.png
+clavis-vitrea-comms_48x48.svg
+
+clavis-vitrea-comms_32x32.png
+clavis-vitrea-comms_32x32.svg
+
+clavis-vitrea-comms_24x24.png
+clavis-vitrea-comms_24x24.svg
+
+clavis-vitrea-comms_16x16.png
+clavis-vitrea-comms_16x16.svg
