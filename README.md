@@ -2,7 +2,7 @@
 
 | | |
 |:---:|:---|
-|**Site:**|[https://clavis-vitrea-comms.mzhukov.now.sh](https://clavis-vitrea-comms.mzhukov.now.sh)|
+|**Site:**|---|
 |**Version:**|0.1.2|
 |**License:**|Apache-2.0|
 |**Author:**|Maxim&nbsp;Zhukov<br>email:&emsp;[mzhukov31415dev@gmail.com](mailto:mzhukov31415dev@gmail.com)<br>www:&emsp;[https://githuib.com/mzhukov1973](https://githuib.com/mzhukov1973))|
